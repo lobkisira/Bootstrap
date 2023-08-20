@@ -1,0 +1,19 @@
+.footer {
+    color: white;
+}
+
+.jumbotron {
+	color: #284738;
+	background: #e5f2f5;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+ .fixed-bottom {
+    padding: 30px;
+    text-align: center;
+ }
